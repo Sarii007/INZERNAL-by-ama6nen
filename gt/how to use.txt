@@ -1,0 +1,17 @@
+
+NOTE:
+these files are unneeded if you already have V3.51 yourself.
+
+
+1. Simply rename your chosen file (ex. 3.51_patched.exe) to Growtopia.exe
+2. drag it to your chosen growtopia folder (It should always be higher or equal version so textures are correct)
+
+The files exist so you can use it for a verified version (like V3.51) if you dont happen to have that version.
+
+The patched version is recommended, as you only need to drag INZERNAL.dll into the same directory.
+Alternatively you can use the injector with either unmodified or patched version.
+You can inject and deinject multiple times with no worry.
+
+V3.51_patched: 		used patcher.exe
+V3.51_unmodified: 	stock version
+
