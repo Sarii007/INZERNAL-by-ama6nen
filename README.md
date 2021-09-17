@@ -1,4 +1,4 @@
-#CREDITS TO AMA6NEN ORIGINAL REPO: https://github.com/ama6nen/INZERNAL
+# CREDITS TO AMA6NEN ORIGINAL REPO: https://github.com/ama6nen/INZERNAL
 
 # INZERNAL
 
